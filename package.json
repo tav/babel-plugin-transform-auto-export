@@ -1,0 +1,18 @@
+{
+  "name": "babel-plugin-transform-auto-export",
+  "version": "0.0.1",
+  "description":
+    "Babel plugin to auto export top-level declarations with a capitalized identifier",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tav/babel-plugin-transform-auto-export.git"
+  },
+  "keywords": ["babel"],
+  "author": "tav",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/tav/babel-plugin-transform-auto-export/issues"
+  },
+  "homepage": "https://github.com/tav/babel-plugin-transform-auto-export#readme"
+}
